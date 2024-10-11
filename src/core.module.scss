@@ -1,0 +1,6 @@
+.field{
+@apply px-2 py-1 rounded border border-solid hover:border-primary border-transparent
+duration-500 ease-linear focus:border-purple outline-none shadow-none after:w-5
+block mb-6 bg-white/40 placeholder:text-white
+
+}
